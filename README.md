@@ -4,7 +4,7 @@ GraphQL workshop at https://reactadvanced.com/ on 24/10/2019
 
 - Original source code: https://github.com/FormidableLabs/advanced-graphql-workshop/
 - Slides: https://advanced-graphql-workshop.netlify.com
-- Backend https://threed-test-api.herokuapp.com/graphql
+- Backend code: https://github.com/kitten/threed-example-api
 
 ### Quick start
 
